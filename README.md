@@ -35,7 +35,7 @@ This application gives the user an opportunity to create a random password based
 ## Links
 
 - Repository: https://github.com/mandipn/Password-Generator
-- Deployed Application: 
+- Deployed Application: https://mandipn.github.io/Password-Generator/
 
 ## License
 
